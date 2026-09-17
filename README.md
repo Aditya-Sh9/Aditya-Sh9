@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-- 🔭 I’m currently working on [An **AI-powered Hotel Concierge Chatbot** that suggests local activities and integrates APIs](https://github.com/Aditya-Sh9/Hotel-chatbot)
+- 🔭 I’m currently working on [An emotionally intelligent AI wellness companion](https://github.com/Aditya-Sh9/Solace)
 
 - 🌱 I’m currently learning **React, Next, Spline, Tailwind**
 
